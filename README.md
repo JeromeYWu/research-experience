@@ -10,7 +10,7 @@ These materials reflect my research experience in structural biology, protein bi
 
 - [SULI 2025](SULI%202025/)
 
-Final report, slide deck, IGNITE slide deck, and IGNITE presentation video from the DOE Science Undergraduate Laboratory Internships (SULI) program at SLAC National Accelerator Laboratory, conducted in collaboration with Stanford University’s Wakatsuki lab.
+Final report, slide deck, Ignite Off! slide deck and presentation video from the DOE Science Undergraduate Laboratory Internships (SULI) program at SLAC National Accelerator Laboratory, conducted in collaboration with Stanford University’s Wakatsuki lab.
 
 Topics include crystallization screening, X-ray crystallography, SAXS experimental design, fluorescent proteins, spectral characterization, and AlphaFold-based structural exploration.
 
