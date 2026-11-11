@@ -1,6 +1,6 @@
 # SULI 2025
 
-This directory contains my final report, presentation slide deck, and IGNITE presentation materials from the 2025 Science Undergraduate Laboratory Internship (SULI) program at SLAC National Accelerator Laboratory in the Wakatsuki Lab.
+This directory contains my final report, presentation slide deck, and Ignite Off! presentation materials from the 2025 Science Undergraduate Laboratory Internship (SULI) program at SLAC National Accelerator Laboratory in the Wakatsuki Lab.
 
 ## Files
 
@@ -10,10 +10,10 @@ This directory contains my final report, presentation slide deck, and IGNITE pre
 - [SULI 2025 Slide Deck Jerome Wu.pdf](SULI%202025%20Slide%20Deck%20Jerome%20Wu.pdf)  
   Final presentation slide deck on the structural characterization of a magnetically sensitive fluorescent protein.
 
-- [SULI IGNITE Slide Deck Jerome Wu.pdf](SULI%20IGNITE%20Slide%20Deck%20Jerome%20Wu.pdf)  
+- [IGNITE Off 2025 Slide Deck Jerome Wu.pdf](IGNITE%20Off%202025%20Slide%20Deck%20Jerome%20Wu.pdf)  
   IGNITE-style presentation slide deck summarizing the project for a short-format research talk.
 
-- [IGNITE 2025 Presentation.mp4](IGNITE%202025%20Presentation.mp4)  
+- [IGNITE Off 2025 Presentation.mp4](IGNITE%20Off%202025%20Presentation.mp4)  
   Video version of the 2025 IGNITE presentation.
 
 ## Project
